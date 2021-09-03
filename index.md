@@ -20,17 +20,23 @@
       
       
    
-<p>My name is Haroon Ahmed. I’m currently working with Prof. <a href="https://cp.kaist.ac.kr/jeehoon.kang/">Jeehoon Kang</a>, as a PhD Student at the Concurrency and Parallelism Laboratory (CPL), School of Computing, KAIST, Korea. Before joining KAIST, I received my M.E degree from the School of Electrical Engineering, Southeast University,China.</p>
+<p>My name is Haroon Ahmed. I’m currently working with Prof. <a href="https://sites.google.com/site/profdshan/">DongSoo Han</a>, as a PhD Student at the Intelligent Service Integration (ISI) Lab, School of Computing, KAIST, Korea. Before joining KAIST, I received my M.E degree from the School of Electrical Engineering, Southeast University,China.</p>
 
 
 <h1 id="research-interests">Research Interests</h1>
-<p>Computer Architecture,Reconfigurable Computing, AI Hardware Accleration, Compiler Design</p>
+<p>Computer Architecture,FPGA-based Deep Learning Hardware Accleration, High-Level Synthesis, Dynamic Function Exchange </p>
 
 <h1 id="professional-experience">Professional Experience</h1>
+<p>Dec. 2020 - Present: <strong>Hardware Engineer</strong></p>
+ <p> DreamBig Semiconductor Inc, Lahore, Paksitan</p>   
+        
 <p>Jan. 2019 - June. 2020: <strong>FPGA Design Engineer</strong></p>
-<p>SinMir Vision (Shanghai), Co., (Pvt), Ltd, Shanghai, China</p>
+<p>SinMir Vision (Shanghai), Co., (Pvt) Ltd, Shanghai, China</p>
 
 <h1 id="education">Education</h1>
+ <p>Sep. 2021 - Aug. 2025: <strong>PhD ( Deep Learning Acceleration) </strong></p>
+<p> <strong>Korea Advance Institite of Science & Technology (KAIST), Daejeon, South Korea. </strong></p>
+        
 <p>Sep. 2015 - June. 2017: <strong>Master's of Electrical Engineering </strong></p>
 <p> <strong>Southeast University, Nanjing, China. </strong></p>
 
